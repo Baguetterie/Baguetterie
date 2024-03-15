@@ -1,6 +1,6 @@
 # Bienvenue👋
 
-Etudiant en 2ème année de BUT informatique passionné par les Jeux-Vidéos, le HardWare, la Musique et L'Histoire, je vise à devenir un auteur de Jeux Vidéo riches en expérience émotionnelle, ludique et sensuelle.
+Etudiant en 2ème année de BUT informatique passionné par les Jeux-Vidéos, le HardWare, la Musique et L'Histoire, je vise à devenir un auteur de Jeux Vidéo riches en expérience émotionnelle, ludique et sensorielle.
 Pour atteindre cet objectif, mes yeux sont tournés vers un Diplôme d'ingénieur en Génie informatique suite à mon BUT informatique
 
 ## Compétences en Informatique :
