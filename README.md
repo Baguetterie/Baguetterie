@@ -15,7 +15,7 @@ Pour atteindre cet objectif, mes yeux sont tournés vers un Diplôme d'ingénieu
 - Solveur de Sudoku avec récursivité interdite (en C#)
 - Puml From Java (projet tutoré partielement fonctionnel)
   
-![alt text](http://imageTDS.png)
+![The Death Seat image](http://https://github.com/Baguetterie/Baguetterie/blob/main/imageTDS.png)
 
 ## Projets en cours :
 
