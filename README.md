@@ -11,11 +11,11 @@ Pour atteindre cet objectif, mes yeux sont tournés vers un Diplôme d'ingénieu
 ## Projets majeurs réalisés :
 
 - Jeux sérieux sur la perception de la violence (3mois en équipe de 3 sur Godot)
-- GameJam sur Renpy
+- GameJam sur Renpy https://point-de-sauvegarde.itch.io/the-death-seat
 - Solveur de Sudoku avec récursivité interdite (en C#)
 - Puml From Java (projet tutoré partielement fonctionnel)
+  
 
 ## Projets en cours :
 
 - Test d'application (en Java avec JaCoCo)
--  
