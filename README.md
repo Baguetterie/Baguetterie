@@ -1,4 +1,4 @@
-##### Bienvenue👋
+# Bienvenue👋
 
 Etudiant en 2ème année de BUT informatique passionné par les Jeux-Vidéos, le HardWare, la Musique et L'Histoire, je vise à devenir un auteur de Jeux Vidéo riches en expérience émotionnelle, ludique et sensuelle.
 Pour atteindre cet objectif, mes yeux sont tournés vers un Diplôme d'ingénieur en Génie informatique suite à mon BUT informatique
@@ -10,12 +10,16 @@ Pour atteindre cet objectif, mes yeux sont tournés vers un Diplôme d'ingénieu
 
 ## Projets majeurs réalisés :
 
-- Jeux sérieux sur la perception de la violence (3mois en équipe de 3 sur Godot)
-- GameJam sur Renpy https://point-de-sauvegarde.itch.io/the-death-seat
+- Jeux sérieux sur la perception de la violence "POV : Perception Of Violence" (3mois en équipe de 3 sur Godot)
+- GameJam sur Renpy "The Death Seat" https://point-de-sauvegarde.itch.io/the-death-seat
 - Solveur de Sudoku avec récursivité interdite (en C#)
 - Puml From Java (projet tutoré partielement fonctionnel)
   
 ![The Death Seat image](https://github.com/Baguetterie/Baguetterie/blob/main/imageTDS.png)
+The Death Seat
+
+![POV Perception Of Violence image](https://github.com/Baguetterie/Baguetterie/blob/main/POV.png)
+POV : Perception Of Violence
 
 ## Projets en cours :
 
