@@ -16,10 +16,11 @@ Pour atteindre cet objectif, mes yeux sont tournés vers un Diplôme d'ingénieu
 - Puml From Java (projet tutoré partielement fonctionnel)
   
 ![The Death Seat image](https://github.com/Baguetterie/Baguetterie/blob/main/imageTDS.png)
-The Death Seat
+**The Death Seat**
+
 
 ![POV Perception Of Violence image](https://github.com/Baguetterie/Baguetterie/blob/main/POV.png)
-POV : Perception Of Violence
+**POV : Perception Of Violence**
 
 ## Projets en cours :
 
